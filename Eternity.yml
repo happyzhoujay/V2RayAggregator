@@ -17,7 +17,7 @@ dns:
   - https://dns.google/dns-query
   - tls://dns.google:853
 proxies:
-- name: RELAY-172.67.199.34-0009 | 0.57MB
+- name: RELAY-172.67.199.34-0009 | 0.0MB
   server: 172.67.199.34
   port: 443
   type: vmess
@@ -31,7 +31,7 @@ proxies:
     path: /
     headers:
       Host: la.awsbest.com
-- name: RELAY-172.67.199.34-0010 | 0.553MB
+- name: RELAY-172.67.199.34-0010 | 0.0MB
   server: 172.67.199.34
   port: 443
   type: vmess
@@ -2153,8 +2153,8 @@ proxy-groups:
   interval: 300
   tolerance: 100
   proxies:
-  - RELAY-172.67.199.34-0009 | 0.57MB
-  - RELAY-172.67.199.34-0010 | 0.553MB
+  - RELAY-172.67.199.34-0009 | 0.0MB
+  - RELAY-172.67.199.34-0010 | 0.0MB
   - RELAY-104.26.8.112-0011 | 0.0MB
   - 🇺🇸US-92.112.198.89-0012 | 0.0MB
   - RELAY-185.162.228.229-0016 | 0.0MB
