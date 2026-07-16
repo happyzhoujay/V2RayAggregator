@@ -17,621 +17,252 @@ dns:
   - https://dns.google/dns-query
   - tls://dns.google:853
 proxies:
-- name: 🇨🇦CA-137.184.174.93-0117 | 309.489MB
-  server: 137.184.174.93
-  port: 8080
-  type: ss
-  cipher: rc4-md5
-  password: 14fFPrbezE3HDZzsMOr6
-- name: 🇺🇸US-156.146.38.170-0106 | 264.569MB
-  server: 156.146.38.170
-  port: 443
-  type: ss
-  cipher: aes-128-gcm
-  password: shadowsocks
-- name: 🇺🇸US-156.146.38.167-0105 | 147.733MB
-  server: 156.146.38.167
-  port: 443
-  type: ss
-  cipher: aes-128-gcm
-  password: shadowsocks
-- name: 🇺🇸US-156.146.38.168-0107 | 116.506MB
-  server: 156.146.38.168
-  port: 443
-  type: ss
-  cipher: aes-128-gcm
-  password: shadowsocks
-- name: 🇺🇸US-37.19.198.243-0157 | 112.051MB
-  server: 37.19.198.243
-  port: 443
-  type: ss
-  cipher: aes-128-gcm
-  password: shadowsocks
-- name: 🇺🇸US-156.146.38.169-0104 | 108.991MB
+- name: 🇺🇸US-156.146.38.169-0147 | 129.69MB
   server: 156.146.38.169
   port: 443
   type: ss
   cipher: aes-128-gcm
   password: shadowsocks
-- name: 🇺🇸US-37.19.198.236-0155 | 108.429MB
-  server: 37.19.198.236
+- name: 🇺🇸US-156.146.38.168-0146 | 118.534MB
+  server: 156.146.38.168
   port: 443
   type: ss
   cipher: aes-128-gcm
   password: shadowsocks
-- name: 🇺🇸US-37.19.198.160-0156 | 66.771MB
-  server: 37.19.198.160
-  port: 443
-  type: ss
-  cipher: aes-128-gcm
-  password: shadowsocks
-- name: 🇺🇸US-37.19.198.244-0158 | 66.312MB
+- name: 🇺🇸US-37.19.198.244-0095 | 109.818MB
   server: 37.19.198.244
   port: 443
   type: ss
   cipher: aes-128-gcm
   password: shadowsocks
-- name: 🇺🇸US-108.181.0.177-0100 | 66.236MB
+- name: 🇺🇸US-156.146.38.170-0149 | 107.423MB
+  server: 156.146.38.170
+  port: 443
+  type: ss
+  cipher: aes-128-gcm
+  password: shadowsocks
+- name: 🇺🇸US-156.146.38.167-0148 | 100.738MB
+  server: 156.146.38.167
+  port: 443
+  type: ss
+  cipher: aes-128-gcm
+  password: shadowsocks
+- name: 🇺🇸US-37.19.198.243-0091 | 96.457MB
+  server: 37.19.198.243
+  port: 443
+  type: ss
+  cipher: aes-128-gcm
+  password: shadowsocks
+- name: 🇺🇸US-3.145.57.90-0101 | 90.147MB
+  server: 3.145.57.90
+  port: 443
+  type: ss
+  cipher: aes-256-cfb
+  password: amazonskr05
+- name: 🇺🇸US-37.19.198.236-0087 | 88.526MB
+  server: 37.19.198.236
+  port: 443
+  type: ss
+  cipher: aes-128-gcm
+  password: shadowsocks
+- name: 🇺🇸US-13.59.31.133-0102 | 88.459MB
+  server: 13.59.31.133
+  port: 443
+  type: ss
+  cipher: aes-256-cfb
+  password: amazonskr05
+- name: 🇺🇸US-37.19.198.160-0090 | 87.423MB
+  server: 37.19.198.160
+  port: 443
+  type: ss
+  cipher: aes-128-gcm
+  password: shadowsocks
+- name: 🇺🇸US-108.181.0.177-0046 | 87.193MB
   server: 108.181.0.177
   port: 8388
   type: ss
   cipher: chacha20-ietf-poly1305
   password: G5p6ww4o67HB
-- name: 🇬🇧GB-82.38.31.186-0149 | 65.953MB
-  server: 82.38.31.186
-  port: 8080
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: k1dBOmOB4oqi7Ump37a1bQ
-- name: 🇨🇦CA-108.181.118.10-0099 | 65.916MB
-  server: 108.181.118.10
-  port: 8388
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: G5p6ww4o67HB
-- name: 🇬🇧GB-82.38.31.191-0141 | 65.86MB
-  server: 82.38.31.191
-  port: 8080
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: k1dBOmOB4oqi7Ump37a1bQ
-- name: 🇬🇧GB-82.38.31.202-0122 | 65.673MB
+- name: 🇬🇧GB-82.38.31.202-0069 | 86.996MB
   server: 82.38.31.202
   port: 8080
   type: ss
   cipher: chacha20-ietf-poly1305
   password: k1dBOmOB4oqi7Ump37a1bQ
-- name: 🇬🇧GB-82.38.31.57-0129 | 65.598MB
-  server: 82.38.31.57
-  port: 443
+- name: 🇨🇦CA-108.181.118.10-0045 | 86.606MB
+  server: 108.181.118.10
+  port: 8388
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: oZIoA69Q8yhcQV8ka3Pa3A
-- name: 🇬🇧GB-82.38.31.210-0148 | 65.524MB
-  server: 82.38.31.210
-  port: 8080
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: k1dBOmOB4oqi7Ump37a1bQ
-- name: 🇬🇧GB-146.70.61.37-0276 | 65.505MB
-  server: 146.70.61.37
-  port: 8080
-  type: ss
-  cipher: rc4-md5
-  password: 14fFPrbezE3HDZzsMOr6
-- name: 🇬🇧GB-82.38.31.192-0151 | 65.468MB
-  server: 82.38.31.192
-  port: 8080
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: k1dBOmOB4oqi7Ump37a1bQ
-- name: 🇬🇧GB-82.38.31.214-0121 | 65.413MB
-  server: 82.38.31.214
-  port: 8080
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: k1dBOmOB4oqi7Ump37a1bQ
-- name: 🇬🇧GB-82.38.31.189-0150 | 65.394MB
-  server: 82.38.31.189
-  port: 8080
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: k1dBOmOB4oqi7Ump37a1bQ
-- name: 🇬🇧GB-82.38.31.208-0115 | 65.302MB
-  server: 82.38.31.208
-  port: 8080
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: k1dBOmOB4oqi7Ump37a1bQ
-- name: 🇬🇧GB-82.38.31.149-0127 | 65.247MB
-  server: 82.38.31.149
-  port: 8080
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: oZIoA69Q8yhcQV8ka3Pa3A
-- name: 🇬🇧GB-82.38.31.187-0124 | 65.137MB
-  server: 82.38.31.187
-  port: 8080
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: k1dBOmOB4oqi7Ump37a1bQ
-- name: 🇬🇧GB-82.38.31.184-0126 | 65.1MB
-  server: 82.38.31.184
-  port: 8080
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: k1dBOmOB4oqi7Ump37a1bQ
-- name: 🇬🇧GB-82.38.31.205-0119 | 65.082MB
-  server: 82.38.31.205
-  port: 8080
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: k1dBOmOB4oqi7Ump37a1bQ
-- name: 🇬🇧GB-82.38.31.17-0154 | 65.045MB
-  server: 82.38.31.17
-  port: 8080
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: oZIoA69Q8yhcQV8ka3Pa3A
-- name: 🇳🇱NL-193.29.139.151-0145 | 65.045MB
-  server: 193.29.139.151
-  port: 8080
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: oZIoA69Q8yhcQV8ka3Pa3A
-- name: 🇬🇧GB-82.38.31.15-0120 | 64.972MB
-  server: 82.38.31.15
-  port: 443
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: oZIoA69Q8yhcQV8ka3Pa3A
-- name: 🇬🇧GB-82.38.31.179-0118 | 64.899MB
+  password: G5p6ww4o67HB
+- name: 🇬🇧GB-82.38.31.179-0228 | 86.412MB
   server: 82.38.31.179
   port: 8080
   type: ss
   cipher: chacha20-ietf-poly1305
   password: k1dBOmOB4oqi7Ump37a1bQ
-- name: 🇳🇱NL-193.29.139.204-0116 | 64.881MB
-  server: 193.29.139.204
+- name: 🇬🇧GB-82.38.31.10-0158 | 86.219MB
+  server: 82.38.31.10
   port: 8080
   type: ss
   cipher: chacha20-ietf-poly1305
   password: oZIoA69Q8yhcQV8ka3Pa3A
-- name: 🇳🇱NL-193.29.139.235-0128 | 64.827MB
+- name: 🇳🇱NL-193.29.139.151-0108 | 86.122MB
+  server: 193.29.139.151
+  port: 8080
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+- name: 🇬🇧GB-146.70.61.37-5970 | 85.962MB
+  server: 146.70.61.37
+  port: 8080
+  type: ss
+  cipher: rc4-md5
+  password: 14fFPrbezE3HDZzsMOr6
+- name: 🇬🇧GB-82.38.31.187-0084 | 85.899MB
+  server: 82.38.31.187
+  port: 8080
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: k1dBOmOB4oqi7Ump37a1bQ
+- name: 🇬🇧GB-82.38.31.192-0103 | 85.549MB
+  server: 82.38.31.192
+  port: 8080
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: k1dBOmOB4oqi7Ump37a1bQ
+- name: 🇬🇧GB-82.38.31.57-0078 | 84.766MB
+  server: 82.38.31.57
+  port: 443
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+- name: 🇬🇧GB-82.38.31.149-0079 | 84.242MB
+  server: 82.38.31.149
+  port: 8080
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+- name: 🇬🇧GB-82.38.31.208-0086 | 84.058MB
+  server: 82.38.31.208
+  port: 8080
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: k1dBOmOB4oqi7Ump37a1bQ
+- name: 🇬🇧GB-82.38.31.210-0083 | 83.543MB
+  server: 82.38.31.210
+  port: 8080
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: k1dBOmOB4oqi7Ump37a1bQ
+- name: 🇬🇧GB-82.38.31.155-0085 | 83.212MB
+  server: 82.38.31.155
+  port: 8080
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+- name: 🇬🇧GB-82.38.31.15-0059 | 82.707MB
+  server: 82.38.31.15
+  port: 443
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+- name: 🇳🇱NL-193.29.139.235-0065 | 80.577MB
   server: 193.29.139.235
   port: 8080
   type: ss
   cipher: chacha20-ietf-poly1305
   password: oZIoA69Q8yhcQV8ka3Pa3A
-- name: 🇺🇸US-173.244.56.9-0102 | 64.574MB
-  server: 173.244.56.9
-  port: 443
+- name: 🇬🇧GB-82.38.31.186-0097 | 79.826MB
+  server: 82.38.31.186
+  port: 8080
   type: ss
-  cipher: aes-128-gcm
-  password: shadowsocks
-- name: 🇺🇸US-173.244.56.6-0101 | 64.538MB
-  server: 173.244.56.6
-  port: 443
+  cipher: chacha20-ietf-poly1305
+  password: k1dBOmOB4oqi7Ump37a1bQ
+- name: 🇬🇧GB-82.38.31.191-0100 | 78.928MB
+  server: 82.38.31.191
+  port: 8080
   type: ss
-  cipher: aes-128-gcm
-  password: shadowsocks
-- name: 🇩🇪DE-3.76.41.23-0567 | 64.52MB
-  server: evolving-baboon.rooster465.autos
+  cipher: chacha20-ietf-poly1305
+  password: k1dBOmOB4oqi7Ump37a1bQ
+- name: 🇬🇧GB-82.38.31.205-0092 | 78.874MB
+  server: 82.38.31.205
+  port: 8080
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: k1dBOmOB4oqi7Ump37a1bQ
+- name: 🇩🇪DE-3.67.171.41-0387 | 78.58MB
+  server: busy-hermit.rooster465.autos
   port: 443
   type: trojan
-  password: KV63147582
-  sni: evolving-baboon.rooster465.autos
+  password: OD90375861
+  sni: busy-hermit.rooster465.autos
   skip-cert-verify: false
-- name: 🇩🇪DE-18.195.11.206-0562 | 64.502MB
-  server: enabling-asp.rooster465.autos
+- name: 🇩🇪DE-18.184.4.15-0381 | 77.657MB
+  server: harmless-lab.rooster465.autos
   port: 443
   type: trojan
-  password: XG59623478
-  sni: enabling-asp.rooster465.autos
+  password: CF68213490
+  sni: harmless-lab.rooster465.autos
   skip-cert-verify: false
-- name: 🇩🇪DE-63.180.59.60-3153 | 64.448MB
+- name: 🇬🇧GB-82.38.31.214-0110 | 77.631MB
+  server: 82.38.31.214
+  port: 8080
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: k1dBOmOB4oqi7Ump37a1bQ
+- name: 🇩🇪DE-63.180.59.60-3106 | 77.475MB
   server: together-insect.rooster465.autos
   port: 443
   type: trojan
   password: OD90375861
   sni: together-insect.rooster465.autos
   skip-cert-verify: false
-- name: 🇳🇱NL-109.201.152.181-0159 | 64.448MB
-  server: 109.201.152.181
+- name: 🇩🇪DE-18.195.11.206-0514 | 75.283MB
+  server: enabling-asp.rooster465.autos
   port: 443
-  type: ss
-  cipher: aes-128-cfb
-  password: shadowsocks
-- name: 🇬🇧GB-82.38.31.16-0138 | 64.412MB
-  server: 82.38.31.16
+  type: trojan
+  password: XG59623478
+  sni: enabling-asp.rooster465.autos
+  skip-cert-verify: false
+- name: 🇬🇧GB-82.38.31.194-0138 | 74.966MB
+  server: 82.38.31.194
   port: 8080
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: oZIoA69Q8yhcQV8ka3Pa3A
-- name: 🇨🇦CA-149.22.95.183-0103 | 64.34MB
-  server: 149.22.95.183
+  password: k1dBOmOB4oqi7Ump37a1bQ
+- name: 🇺🇸US-173.244.56.6-0047 | 74.845MB
+  server: 173.244.56.6
   port: 443
   type: ss
   cipher: aes-128-gcm
   password: shadowsocks
-- name: 🇯🇵JP-13.112.1.163-0526 | 64.215MB
-  server: next-turkey.rooster465.autos
+- name: 🇬🇧GB-82.38.31.35-0133 | 73.725MB
+  server: 82.38.31.35
+  port: 443
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+- name: 🇳🇱NL-193.29.139.204-0057 | 72.479MB
+  server: 193.29.139.204
+  port: 8080
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+- name: 🇬🇧GB-82.38.31.184-0082 | 69.938MB
+  server: 82.38.31.184
+  port: 8080
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: k1dBOmOB4oqi7Ump37a1bQ
+- name: 🇩🇪DE-3.76.41.23-0519 | 67.887MB
+  server: evolving-baboon.rooster465.autos
   port: 443
   type: trojan
-  password: CF68213490
-  sni: next-turkey.rooster465.autos
+  password: KV63147582
+  sni: evolving-baboon.rooster465.autos
   skip-cert-verify: false
-- name: 🇯🇵JP-3.112.231.253-0540 | 64.162MB
-  server: upright-rhino.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: upright-rhino.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-43.206.224.40-0504 | 64.144MB
-  server: alert-fish.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: alert-fish.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-54.168.247.156-0517 | 64.073MB
-  server: gentle-honeybee.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: gentle-honeybee.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-18.183.149.237-0523 | 63.861MB
-  server: loyal-molly.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: loyal-molly.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-52.199.23.158-0536 | 63.826MB
-  server: thankful-mustang.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: thankful-mustang.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-43.206.235.148-0508 | 63.808MB
-  server: communal-sunbird.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: communal-sunbird.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-13.231.189.62-0514 | 63.633MB
-  server: fair-werewolf.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: fair-werewolf.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-3.112.212.133-0532 | 63.441MB
-  server: smashing-fawn.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: smashing-fawn.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-52.197.223.110-0518 | 63.199MB
-  server: funny-hen.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: funny-hen.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-52.68.237.45-0538 | 63.181MB
-  server: welcome-monitor.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: welcome-monitor.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-52.195.215.200-0534 | 63.044MB
-  server: steady-prawn.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: steady-prawn.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-52.198.124.62-0529 | 62.992MB
-  server: skilled-lioness.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: skilled-lioness.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-43.207.210.229-0505 | 62.583MB
-  server: careful-penguin.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: careful-penguin.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-3.112.149.206-0533 | 62.516MB
-  server: star-moray.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: star-moray.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-18.183.164.154-0108 | 62.097MB
-  server: noble-tahr.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: noble-tahr.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-52.197.36.228-0524 | 61.98MB
-  server: musical-manatee.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: musical-manatee.rooster465.autos
-  skip-cert-verify: false
-- name: 🇳🇱NL-193.169.239.76-0163 | 61.864MB
-  server: renewed-chigger.rooster465.autos
-  port: 443
-  type: trojan
-  password: XG59623478
-  skip-cert-verify: false
-- name: 🇯🇵JP-54.178.35.10-0112 | 61.634MB
-  server: equipped-moth.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: equipped-moth.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-18.177.136.64-0520 | 61.617MB
-  server: moved-bluegill.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: moved-bluegill.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-54.238.160.68-0510 | 60.92MB
-  server: darling-mongrel.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: darling-mongrel.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-52.195.207.214-3163 | 60.364MB
-  server: rested-osprey.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: rested-osprey.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-54.65.43.16-0507 | 60.16MB
-  server: composed-sheep.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: composed-sheep.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-13.115.80.163-0528 | 60.113MB
-  server: smiling-fowl.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: smiling-fowl.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-43.207.153.3-0511 | 59.973MB
-  server: eminent-dogfish.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: eminent-dogfish.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-13.231.188.13-0535 | 59.896MB
-  server: summary-firefly.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: summary-firefly.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-54.168.65.98-0515 | 59.649MB
-  server: eternal-woodcock.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: eternal-woodcock.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-52.198.88.225-0527 | 59.343MB
-  server: in-oriole.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: in-oriole.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-54.248.6.109-3147 | 59.221MB
-  server: evolving-mollusk.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: evolving-mollusk.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-43.207.122.159-3157 | 59.115MB
-  server: ultimate-jaguar.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: ultimate-jaguar.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-18.181.201.45-0531 | 58.4MB
-  server: sincere-crappie.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: sincere-crappie.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-43.207.109.243-0537 | 58.355MB
-  server: united-molly.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: united-molly.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-52.196.71.137-0110 | 58.136MB
-  server: star-dodo.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: star-dodo.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-54.248.166.163-0522 | 57.744MB
-  server: sacred-shepherd.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: sacred-shepherd.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-43.207.107.39-0519 | 57.572MB
-  server: live-drake.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: live-drake.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-18.183.172.225-0530 | 57.472MB
-  server: smooth-hornet.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: smooth-hornet.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-43.207.204.233-0516 | 57.4MB
-  server: funny-hawk.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: funny-hawk.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-43.207.117.135-0512 | 57.188MB
-  server: eminent-panther.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: eminent-panther.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-35.77.85.144-0513 | 56.531MB
-  server: eager-platypus.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: eager-platypus.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-54.65.240.194-0503 | 56.462MB
-  server: accurate-frog.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: accurate-frog.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-54.250.235.241-0506 | 56.298MB
-  server: adapting-basilisk.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: adapting-basilisk.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-3.112.189.201-3134 | 56.202MB
-  server: wealthy-gobbler.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: wealthy-gobbler.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-18.183.224.87-0521 | 56.175MB
-  server: eternal-perch.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: eternal-perch.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-52.194.192.245-0111 | 56.066MB
-  server: exciting-grizzly.rooster465.autos
-  port: 443
-  type: trojan
-  password: PI36027154
-  sni: exciting-grizzly.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-54.238.124.150-3159 | 55.957MB
-  server: innocent-rattler.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: innocent-rattler.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-54.178.7.201-0604 | 55.742MB
-  server: immune-mullet.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: immune-mullet.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-3.112.234.3-3165 | 55.742MB
-  server: free-hare.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: free-hare.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-52.195.207.214-0601 | 55.316MB
-  server: 52.195.207.214
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: rested-osprey.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-52.194.255.244-0595 | 55.25MB
-  server: adapting-giraffe.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: adapting-giraffe.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-35.77.91.8-0509 | 54.974MB
-  server: definite-ladybird.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: definite-ladybird.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-54.199.102.210-0525 | 54.909MB
-  server: nearby-egret.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: nearby-egret.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-43.207.117.135-0600 | 54.025MB
-  server: 43.207.117.135
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: eminent-panther.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-54.178.0.218-0539 | 53.575MB
-  server: easy-barnacle.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: easy-barnacle.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-35.72.9.75-0599 | 53.095MB
-  server: 35.72.9.75
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: caring-wallaby.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-45.76.202.45-6077 | 53.01MB
+- name: 🇯🇵JP-45.76.202.45-6000 | 60.348MB
   server: 45.76.202.45
   port: 4010
   type: vmess
@@ -643,421 +274,409 @@ proxies:
   network: ws
   ws-opts:
     path: /
-- name: 🇯🇵JP-13.230.252.28-3146 | 52.901MB
-  server: sacred-anemone.rooster465.autos
+- name: 🇺🇸US-173.244.56.9-0048 | 54.38MB
+  server: 173.244.56.9
+  port: 443
+  type: ss
+  cipher: aes-128-gcm
+  password: shadowsocks
+- name: 🇯🇵JP-18.183.172.225-0482 | 52.022MB
+  server: smooth-hornet.rooster465.autos
   port: 443
   type: trojan
   password: CF68213490
-  sni: sacred-anemone.rooster465.autos
+  sni: smooth-hornet.rooster465.autos
   skip-cert-verify: false
-- name: 🇯🇵JP-35.72.9.75-3148 | 52.805MB
-  server: caring-wallaby.rooster465.autos
+- name: 🇯🇵JP-54.178.7.201-0379 | 51.951MB
+  server: immune-mullet.rooster465.autos
   port: 443
   type: trojan
   password: CF68213490
-  sni: caring-wallaby.rooster465.autos
+  sni: immune-mullet.rooster465.autos
   skip-cert-verify: false
-- name: 🇯🇵JP-18.176.53.202-0565 | 52.757MB
+- name: 🇯🇵JP-52.195.207.214-0553 | 51.148MB
+  server: 52.195.207.214
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: rested-osprey.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-52.195.215.200-0486 | 48.542MB
+  server: steady-prawn.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: steady-prawn.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-52.199.23.158-0488 | 48.258MB
+  server: thankful-mustang.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: thankful-mustang.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-43.207.153.3-0463 | 46.748MB
+  server: eminent-dogfish.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: eminent-dogfish.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-54.178.35.10-0053 | 46.56MB
+  server: equipped-moth.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: equipped-moth.rooster465.autos
+  skip-cert-verify: false
+- name: 🇳🇱NL-193.169.239.76-0105 | 46.401MB
+  server: renewed-chigger.rooster465.autos
+  port: 443
+  type: trojan
+  password: XG59623478
+  skip-cert-verify: false
+- name: 🇯🇵JP-18.176.53.202-0517 | 46.271MB
   server: concrete-aardvark.rooster465.autos
   port: 443
   type: trojan
   password: CF68213490
   sni: concrete-aardvark.rooster465.autos
   skip-cert-verify: false
-- name: 🇯🇵JP-13.112.180.140-3128 | 52.649MB
-  server: settling-humpback.rooster465.autos
+- name: 🇯🇵JP-43.207.210.229-0457 | 46.234MB
+  server: careful-penguin.rooster465.autos
   port: 443
   type: trojan
   password: CF68213490
-  sni: settling-humpback.rooster465.autos
+  sni: careful-penguin.rooster465.autos
   skip-cert-verify: false
-- name: 🇯🇵JP-18.177.140.248-0556 | 52.613MB
+- name: 🇯🇵JP-43.207.122.159-0384 | 45.895MB
+  server: ultimate-jaguar.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: ultimate-jaguar.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-54.248.6.109-3092 | 45.859MB
+  server: evolving-mollusk.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: evolving-mollusk.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-18.177.136.64-0472 | 45.427MB
+  server: moved-bluegill.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: moved-bluegill.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-54.168.65.98-0467 | 45.347MB
+  server: eternal-woodcock.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: eternal-woodcock.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-52.68.237.45-0490 | 45.17MB
+  server: welcome-monitor.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: welcome-monitor.rooster465.autos
+  skip-cert-verify: false
+- name: 🇵🇱PL-62.112.222.212-3093 | 45.17MB
+  server: more-trout.rooster465.autos
+  port: 443
+  type: trojan
+  password: KV63147582
+  sni: more-trout.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-54.168.247.156-0469 | 45.091MB
+  server: gentle-honeybee.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: gentle-honeybee.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-43.207.117.135-0552 | 45.047MB
+  server: 43.207.117.135
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: eminent-panther.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-18.181.201.45-0483 | 45.038MB
+  server: sincere-crappie.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: sincere-crappie.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-3.112.189.201-0391 | 45.029MB
+  server: wealthy-gobbler.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: wealthy-gobbler.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-18.177.140.248-0508 | 45.012MB
   server: shining-piranha.rooster465.autos
   port: 443
   type: trojan
   password: CF68213490
   sni: shining-piranha.rooster465.autos
   skip-cert-verify: false
-- name: 🇯🇵JP-13.115.229.63-0598 | 52.422MB
+- name: 🇯🇵JP-3.112.149.206-0485 | 44.994MB
+  server: star-moray.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: star-moray.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-43.207.117.135-0464 | 44.986MB
+  server: eminent-panther.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: eminent-panther.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-52.194.255.244-0547 | 44.959MB
+  server: adapting-giraffe.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: adapting-giraffe.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-43.207.204.233-0468 | 44.951MB
+  server: funny-hawk.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: funny-hawk.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-43.207.109.243-0489 | 44.951MB
+  server: united-molly.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: united-molly.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-54.178.0.218-0491 | 44.942MB
+  server: easy-barnacle.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: easy-barnacle.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-54.65.43.16-0459 | 44.942MB
+  server: composed-sheep.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: composed-sheep.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-52.197.223.110-0470 | 44.916MB
+  server: funny-hen.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: funny-hen.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-3.112.212.133-0484 | 44.898MB
+  server: smashing-fawn.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: smashing-fawn.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-18.183.224.87-0473 | 44.898MB
+  server: eternal-perch.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: eternal-perch.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-54.65.240.194-0455 | 44.881MB
+  server: accurate-frog.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: accurate-frog.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-13.115.229.63-0550 | 44.872MB
   server: 13.115.229.63
   port: 443
   type: trojan
   password: CF68213490
   sni: alert-redfish.rooster465.autos
   skip-cert-verify: false
-- name: 🇯🇵JP-13.115.229.63-0597 | 52.292MB
+- name: 🇯🇵JP-43.207.107.39-0471 | 44.863MB
+  server: live-drake.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: live-drake.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-52.194.192.245-0055 | 44.82MB
+  server: exciting-grizzly.rooster465.autos
+  port: 443
+  type: trojan
+  password: PI36027154
+  sni: exciting-grizzly.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-35.72.9.75-0551 | 44.82MB
+  server: 35.72.9.75
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: caring-wallaby.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-54.250.235.241-0458 | 44.803MB
+  server: adapting-basilisk.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: adapting-basilisk.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-52.198.88.225-0479 | 44.777MB
+  server: in-oriole.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: in-oriole.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-52.198.124.62-0481 | 44.777MB
+  server: skilled-lioness.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: skilled-lioness.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-43.206.235.148-0460 | 44.768MB
+  server: communal-sunbird.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: communal-sunbird.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-35.77.91.8-0461 | 44.733MB
+  server: definite-ladybird.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: definite-ladybird.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-18.183.149.237-0475 | 44.733MB
+  server: loyal-molly.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: loyal-molly.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-3.112.231.253-0492 | 44.69MB
+  server: upright-rhino.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: upright-rhino.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-13.231.189.62-0466 | 44.682MB
+  server: fair-werewolf.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: fair-werewolf.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-43.206.224.40-0456 | 44.673MB
+  server: alert-fish.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: alert-fish.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-18.183.164.154-0052 | 44.656MB
+  server: noble-tahr.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: noble-tahr.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-3.112.234.3-0380 | 44.613MB
+  server: free-hare.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: free-hare.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-54.199.102.210-0477 | 44.553MB
+  server: nearby-egret.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: nearby-egret.rooster465.autos
+  skip-cert-verify: false
+- name: 🇨🇦CA-149.22.95.183-0049 | 44.535MB
+  server: 149.22.95.183
+  port: 443
+  type: ss
+  cipher: aes-128-gcm
+  password: shadowsocks
+- name: 🇳🇱NL-109.201.152.181-0094 | 44.527MB
+  server: 109.201.152.181
+  port: 443
+  type: ss
+  cipher: aes-128-cfb
+  password: shadowsocks
+- name: 🇯🇵JP-54.248.166.163-0474 | 44.441MB
+  server: sacred-shepherd.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: sacred-shepherd.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-52.197.36.228-0476 | 44.424MB
+  server: musical-manatee.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: musical-manatee.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-13.231.188.13-0487 | 44.39MB
+  server: summary-firefly.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: summary-firefly.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-35.77.85.144-0465 | 44.373MB
+  server: eager-platypus.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: eager-platypus.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-13.112.1.163-0478 | 44.348MB
+  server: next-turkey.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: next-turkey.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-54.238.160.68-0462 | 44.331MB
+  server: darling-mongrel.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: darling-mongrel.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-13.115.229.63-0549 | 44.322MB
   server: alert-redfish.rooster465.autos
   port: 443
   type: trojan
   password: CF68213490
   sni: alert-redfish.rooster465.autos
   skip-cert-verify: false
-- name: 🇰🇷KR-13.124.122.135-0130 | 52.162MB
-  server: clear-heron.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: clear-heron.rooster465.autos
-  skip-cert-verify: false
-- name: 🇰🇷KR-3.38.190.61-0140 | 52.115MB
-  server: excited-squirrel.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: excited-squirrel.rooster465.autos
-  skip-cert-verify: false
-- name: 🇰🇷KR-43.201.64.246-0136 | 52.115MB
-  server: growing-ram.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: growing-ram.rooster465.autos
-  skip-cert-verify: false
-- name: 🇰🇷KR-3.36.52.205-0146 | 52.103MB
-  server: aware-lionfish.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: aware-lionfish.rooster465.autos
-  skip-cert-verify: false
-- name: 🇰🇷KR-13.125.159.219-0135 | 51.951MB
-  server: star-bluejay.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: star-bluejay.rooster465.autos
-  skip-cert-verify: false
-- name: 🇰🇷KR-3.35.81.139-0131 | 51.87MB
-  server: climbing-frog.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: climbing-frog.rooster465.autos
-  skip-cert-verify: false
-- name: 🇰🇷KR-3.39.248.52-0555 | 51.812MB
-  server: helping-shark.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: helping-shark.rooster465.autos
-  skip-cert-verify: false
-- name: 🇰🇷KR-43.201.146.77-0143 | 51.273MB
-  server: aware-puma.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: aware-puma.rooster465.autos
-  skip-cert-verify: false
-- name: 🇰🇷KR-3.35.214.88-3158 | 51.216MB
-  server: pure-ram.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: pure-ram.rooster465.autos
-  skip-cert-verify: false
-- name: 🇰🇷KR-54.180.1.187-0137 | 51.205MB
-  server: charming-puma.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: charming-puma.rooster465.autos
-  skip-cert-verify: false
-- name: 🇰🇷KR-3.36.94.34-0152 | 50.934MB
-  server: awake-satyr.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: awake-satyr.rooster465.autos
-  skip-cert-verify: false
-- name: 🇰🇷KR-54.180.228.205-0134 | 50.767MB
-  server: diverse-thrush.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: diverse-thrush.rooster465.autos
-  skip-cert-verify: false
-- name: 🇰🇷KR-54.180.248.218-0147 | 50.667MB
-  server: devoted-zebra.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: devoted-zebra.rooster465.autos
-  skip-cert-verify: false
-- name: 🇰🇷KR-43.203.209.247-0142 | 50.435MB
-  server: tolerant-stag.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: tolerant-stag.rooster465.autos
-  skip-cert-verify: false
-- name: 🇰🇷KR-54.180.139.180-0139 | 47.244MB
-  server: enormous-whippet.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: enormous-whippet.rooster465.autos
-  skip-cert-verify: false
-- name: 🇰🇷KR-43.201.102.23-0132 | 46.345MB
-  server: upward-yak.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: upward-yak.rooster465.autos
-  skip-cert-verify: false
-- name: 🇰🇷KR-54.180.233.91-3140 | 45.347MB
-  server: central-jawfish.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: central-jawfish.rooster465.autos
-  skip-cert-verify: false
-- name: 🇰🇷KR-3.38.213.204-0144 | 44.424MB
-  server: allowing-halibut.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: allowing-halibut.rooster465.autos
-  skip-cert-verify: false
-- name: 🇰🇷KR-54.180.235.223-0123 | 43.254MB
-  server: eternal-horse.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: eternal-horse.rooster465.autos
-  skip-cert-verify: false
-- name: 🇰🇷KR-52.79.117.94-0133 | 43.23MB
-  server: together-impala.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: together-impala.rooster465.autos
-  skip-cert-verify: false
-- name: 🇰🇷KR-3.36.60.83-0559 | 42.244MB
-  server: gentle-mastiff.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: gentle-mastiff.rooster465.autos
-  skip-cert-verify: false
-- name: 🇯🇵JP-176.34.18.166-3129 | 42.128MB
-  server: informed-stud.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: informed-stud.rooster465.autos
-  skip-cert-verify: false
-- name: 🇳🇱NL-108.181.58.239-0167 | 42.067MB
-  server: 108.181.58.239
-  port: 8388
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: CJmTCCx7Ltud
-- name: 🇩🇪DE-209.46.102.22-0166 | 41.953MB
-  server: 209.46.102.22
-  port: 8388
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: 1hhrqrokj3ag
-- name: 🇳🇱NL-108.181.126.122-0171 | 41.9MB
-  server: 108.181.126.122
-  port: 8388
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: CJmTCCx7Ltud
-- name: 🇦🇺AU-82.117.225.56-0161 | 41.816MB
-  server: stirring-dane.rooster465.autos
-  port: 443
-  type: trojan
-  password: XG59623478
-  sni: stirring-dane.rooster465.autos
-  skip-cert-verify: false
-- name: 🇸🇬SG-47.129.229.87-0560 | 41.779MB
-  server: brief-warthog.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: brief-warthog.rooster465.autos
-  skip-cert-verify: false
-- name: 🇸🇬SG-54.255.158.218-3152 | 41.741MB
-  server: powerful-troll.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: powerful-troll.rooster465.autos
-  skip-cert-verify: false
-- name: 🇸🇬SG-47.131.233.29-0558 | 41.561MB
-  server: internal-krill.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: internal-krill.rooster465.autos
-  skip-cert-verify: false
-- name: 🇸🇬SG-18.141.239.172-0566 | 41.531MB
-  server: star-hagfish.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: star-hagfish.rooster465.autos
-  skip-cert-verify: false
-- name: 🇸🇬SG-18.136.143.231-0160 | 41.494MB
-  server: sharp-scorpion.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: sharp-scorpion.rooster465.autos
-  skip-cert-verify: false
-- name: 🇦🇺AU-82.117.225.216-0153 | 41.368MB
-  server: concise-buck.rooster465.autos
-  port: 443
-  type: trojan
-  password: XG59623478
-  sni: concise-buck.rooster465.autos
-  skip-cert-verify: false
-- name: 🇸🇬SG-47.131.229.111-0564 | 41.361MB
-  server: normal-macaque.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: normal-macaque.rooster465.autos
-  skip-cert-verify: false
-- name: 🇸🇬SG-52.221.255.155-3164 | 41.221MB
-  server: summary-lemming.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: summary-lemming.rooster465.autos
-  skip-cert-verify: false
-- name: 🇸🇬SG-47.129.8.215-0561 | 41.096MB
-  server: relevant-oryx.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: relevant-oryx.rooster465.autos
-  skip-cert-verify: false
-- name: 🇸🇬SG-54.255.216.250-0602 | 40.835MB
-  server: 54.255.216.250
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: musical-terrier.rooster465.autos
-  skip-cert-verify: false
-- name: 🇸🇬SG-13.212.190.163-0596 | 40.728MB
-  server: learning-wren.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: learning-wren.rooster465.autos
-  skip-cert-verify: false
-- name: 🇸🇬SG-47.128.246.104-0563 | 40.302MB
-  server: bright-cicada.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: bright-cicada.rooster465.autos
-  skip-cert-verify: false
-- name: 🇸🇬SG-54.255.216.250-3144 | 40.079MB
-  server: musical-terrier.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: musical-terrier.rooster465.autos
-  skip-cert-verify: false
-- name: 🇸🇬SG-13.251.115.17-0569 | 39.92MB
-  server: intimate-moray.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: intimate-moray.rooster465.autos
-  skip-cert-verify: false
-- name: 🇸🇬SG-18.143.179.167-0568 | 39.653MB
-  server: active-hippo.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: active-hippo.rooster465.autos
-  skip-cert-verify: false
-- name: 🇸🇬SG-56.10.12.139-0162 | 39.363MB
-  server: saved-tuna.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: saved-tuna.rooster465.autos
-  skip-cert-verify: false
-- name: 🇸🇬SG-54.255.251.6-0603 | 37.826MB
-  server: grateful-owl.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: grateful-owl.rooster465.autos
-  skip-cert-verify: false
-- name: 🇸🇬SG-18.143.166.214-3173 | 36.915MB
-  server: evolving-platypus.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: evolving-platypus.rooster465.autos
-  skip-cert-verify: false
-- name: 🇸🇬SG-13.229.60.15-0557 | 35.941MB
-  server: vast-werewolf.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: vast-werewolf.rooster465.autos
-  skip-cert-verify: false
-- name: 🇳🇱NL-158.173.20.171-0175 | 35.818MB
-  server: 158.173.20.171
-  port: 443
-  type: ss
-  cipher: aes-128-gcm
-  password: shadowsocks
-- name: 🇸🇬SG-52.221.218.103-0541 | 34.311MB
-  server: sacred-treefrog.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: sacred-treefrog.rooster465.autos
-  skip-cert-verify: false
-- name: 🇸🇬SG-18.142.251.222-3137 | 33.005MB
-  server: modest-bat.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: modest-bat.rooster465.autos
-  skip-cert-verify: false
-- name: 🇸🇬SG-13.212.252.228-3133 | 32.752MB
-  server: prime-buzzard.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: prime-buzzard.rooster465.autos
-  skip-cert-verify: false
-- name: 🇸🇬SG-54.255.225.60-3135 | 32.215MB
-  server: tight-gator.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: tight-gator.rooster465.autos
-  skip-cert-verify: false
-- name: 🇭🇰HK-194.99.79.214-0164 | 30.304MB
-  server: growing-oyster.rooster465.autos
-  port: 443
-  type: trojan
-  password: XG59623478
-  skip-cert-verify: false
-- name: 🇬🇧GB-82.38.31.155-0125 | 29.809MB
-  server: 82.38.31.155
-  port: 8080
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: oZIoA69Q8yhcQV8ka3Pa3A
-- name: 🇸🇬SG-18.143.164.105-0554 | 25.476MB
-  server: moral-basilisk.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: moral-basilisk.rooster465.autos
-  skip-cert-verify: false
-- name: 🇺🇸US-107.161.82.89-6029 | 25.47MB
+- name: 🇺🇸US-107.161.82.89-5956 | 44.305MB
   server: 107.161.82.89
   port: 27489
   type: vmess
@@ -1069,7 +688,76 @@ proxies:
   network: ws
   ws-opts:
     path: /
-- name: 🇺🇸US-107.161.82.89-6027 | 24.153MB
+- name: 🇰🇷KR-3.35.214.88-3096 | 44.305MB
+  server: pure-ram.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: pure-ram.rooster465.autos
+  skip-cert-verify: false
+- name: 🇰🇷KR-13.124.122.135-0062 | 44.288MB
+  server: clear-heron.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: clear-heron.rooster465.autos
+  skip-cert-verify: false
+- name: 🇰🇷KR-52.79.117.94-0066 | 44.271MB
+  server: together-impala.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: together-impala.rooster465.autos
+  skip-cert-verify: false
+- name: 🇰🇷KR-3.36.60.83-0511 | 44.204MB
+  server: gentle-mastiff.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: gentle-mastiff.rooster465.autos
+  skip-cert-verify: false
+- name: 🇰🇷KR-3.39.248.52-0507 | 44.086MB
+  server: helping-shark.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: helping-shark.rooster465.autos
+  skip-cert-verify: false
+- name: 🇰🇷KR-3.38.213.204-0061 | 44.019MB
+  server: allowing-halibut.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: allowing-halibut.rooster465.autos
+  skip-cert-verify: false
+- name: 🇰🇷KR-54.180.1.187-0070 | 43.613MB
+  server: charming-puma.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: charming-puma.rooster465.autos
+  skip-cert-verify: false
+- name: 🇰🇷KR-54.180.228.205-0081 | 43.481MB
+  server: diverse-thrush.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: diverse-thrush.rooster465.autos
+  skip-cert-verify: false
+- name: 🇰🇷KR-43.201.46.29-0067 | 40.692MB
+  server: smooth-lark.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  skip-cert-verify: false
+- name: 🇰🇷KR-54.180.248.218-0077 | 40.372MB
+  server: devoted-zebra.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: devoted-zebra.rooster465.autos
+  skip-cert-verify: false
+- name: 🇺🇸US-107.161.82.89-5954 | 40.044MB
   server: 107.161.82.89
   port: 59284
   type: vmess
@@ -1081,73 +769,230 @@ proxies:
   network: ws
   ws-opts:
     path: /
-- name: 🇬🇧GB-141.98.101.181-0245 | 20.243MB
-  server: 141.98.101.181
+- name: 🇰🇷KR-43.201.146.77-0063 | 39.721MB
+  server: aware-puma.rooster465.autos
   port: 443
-  type: ss
-  cipher: aes-128-gcm
-  password: shadowsocks
-- name: 🇬🇧GB-141.98.101.179-0178 | 18.068MB
-  server: 141.98.101.179
-  port: 443
-  type: ss
-  cipher: aes-128-gcm
-  password: shadowsocks
-- name: 🇰🇷KR-141.164.45.187-0176 | 17.044MB
-  server: 141.164.45.187
-  port: 6679
-  type: ss
-  cipher: aes-256-gcm
-  password: TEzjfAYq2IjtuoS
-- name: 🇬🇧GB-141.98.101.178-0179 | 16.879MB
-  server: 141.98.101.178
-  port: 443
-  type: ss
-  cipher: aes-128-gcm
-  password: shadowsocks
-- name: 🇬🇧GB-141.98.101.182-0177 | 16.446MB
-  server: 141.98.101.182
-  port: 443
-  type: ss
-  cipher: aes-128-gcm
-  password: shadowsocks
-- name: 🇩🇪DE-8.209.74.72-0180 | 16.039MB
-  server: 8.209.74.72
-  port: 20001
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: PWpjPo3tqhPN4yRZ
-- name: TR-83.217.9.17-0181 | 16.012MB
-  server: 83.217.9.17
-  port: 25232
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: 0GAK2b9gkqBatuxi2cswmH
-- name: MD-94.131.108.36-0182 | 15.37MB
-  server: 94.131.108.36
-  port: 443
-  type: vmess
-  uuid: 9855f1f0-a800-40d4-8b38-c7d3eb79302d
-  alterId: 0
-  cipher: auto
-  tls: false
+  type: trojan
+  password: CF68213490
+  sni: aware-puma.rooster465.autos
   skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: /
-- name: 🇰🇷KR-141.164.45.187-0173 | 15.093MB
-  server: 141.164.45.187
-  port: 7001
-  type: ss
-  cipher: aes-256-gcm
-  password: RexnBgU7EV5ADxG
-- name: 🇺🇸US-216.105.168.18-0165 | 14.476MB
-  server: 216.105.168.18
+- name: 🇰🇷KR-3.35.81.139-0073 | 39.633MB
+  server: climbing-frog.rooster465.autos
   port: 443
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: hCCWOcIsK5wrFz4OX70rWf
-- name: 🇺🇸US-128.242.109.20-6028 | 12.419MB
+  type: trojan
+  password: CF68213490
+  sni: climbing-frog.rooster465.autos
+  skip-cert-verify: false
+- name: 🇰🇷KR-43.203.209.247-0071 | 39.243MB
+  server: tolerant-stag.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: tolerant-stag.rooster465.autos
+  skip-cert-verify: false
+- name: 🇯🇵JP-13.115.80.163-0480 | 39.177MB
+  server: smiling-fowl.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: smiling-fowl.rooster465.autos
+  skip-cert-verify: false
+- name: 🇰🇷KR-43.201.64.246-0080 | 39.091MB
+  server: growing-ram.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: growing-ram.rooster465.autos
+  skip-cert-verify: false
+- name: 🇰🇷KR-3.36.94.34-0076 | 39.077MB
+  server: awake-satyr.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: awake-satyr.rooster465.autos
+  skip-cert-verify: false
+- name: 🇰🇷KR-3.38.190.61-0075 | 39.071MB
+  server: excited-squirrel.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: excited-squirrel.rooster465.autos
+  skip-cert-verify: false
+- name: 🇰🇷KR-54.180.235.223-0072 | 39.025MB
+  server: eternal-horse.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: eternal-horse.rooster465.autos
+  skip-cert-verify: false
+- name: 🇰🇷KR-54.180.139.180-0074 | 39.012MB
+  server: enormous-whippet.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: enormous-whippet.rooster465.autos
+  skip-cert-verify: false
+- name: 🇳🇱NL-89.39.70.233-1968 | 39.005MB
+  server: game-firefly.rooster465.autos
+  port: 443
+  type: trojan
+  password: KV63147582
+  sni: game-firefly.rooster465.autos
+  skip-cert-verify: false
+- name: 🇰🇷KR-3.36.52.205-0058 | 38.992MB
+  server: aware-lionfish.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: aware-lionfish.rooster465.autos
+  skip-cert-verify: false
+- name: 🇰🇷KR-13.125.159.219-0060 | 38.979MB
+  server: star-bluejay.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: star-bluejay.rooster465.autos
+  skip-cert-verify: false
+- name: 🇰🇷KR-43.201.102.23-0064 | 38.972MB
+  server: upward-yak.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: upward-yak.rooster465.autos
+  skip-cert-verify: false
+- name: 🇸🇬SG-47.128.246.104-0515 | 38.953MB
+  server: bright-cicada.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: bright-cicada.rooster465.autos
+  skip-cert-verify: false
+- name: 🇦🇺AU-82.117.225.56-0088 | 38.92MB
+  server: stirring-dane.rooster465.autos
+  port: 443
+  type: trojan
+  password: XG59623478
+  sni: stirring-dane.rooster465.autos
+  skip-cert-verify: false
+- name: 🇸🇬SG-18.143.164.105-0506 | 38.894MB
+  server: moral-basilisk.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: moral-basilisk.rooster465.autos
+  skip-cert-verify: false
+- name: 🇸🇬SG-18.143.179.167-0520 | 38.822MB
+  server: active-hippo.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: active-hippo.rooster465.autos
+  skip-cert-verify: false
+- name: 🇸🇬SG-18.141.239.172-0518 | 38.796MB
+  server: star-hagfish.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: star-hagfish.rooster465.autos
+  skip-cert-verify: false
+- name: 🇸🇬SG-13.229.60.15-0509 | 38.783MB
+  server: vast-werewolf.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: vast-werewolf.rooster465.autos
+  skip-cert-verify: false
+- name: 🇸🇬SG-47.131.229.111-0390 | 38.757MB
+  server: normal-macaque.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: normal-macaque.rooster465.autos
+  skip-cert-verify: false
+- name: 🇸🇬SG-47.131.233.29-0510 | 38.75MB
+  server: internal-krill.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: internal-krill.rooster465.autos
+  skip-cert-verify: false
+- name: 🇸🇬SG-18.136.143.231-0096 | 37.519MB
+  server: sharp-scorpion.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: sharp-scorpion.rooster465.autos
+  skip-cert-verify: false
+- name: 🇸🇬SG-47.129.229.87-0389 | 37.459MB
+  server: brief-warthog.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: brief-warthog.rooster465.autos
+  skip-cert-verify: false
+- name: 🇸🇬SG-52.221.218.103-0493 | 34.382MB
+  server: sacred-treefrog.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: sacred-treefrog.rooster465.autos
+  skip-cert-verify: false
+- name: 🇸🇬SG-13.212.190.163-0548 | 33.78MB
+  server: learning-wren.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: learning-wren.rooster465.autos
+  skip-cert-verify: false
+- name: 🇸🇬SG-56.10.12.139-0098 | 32.748MB
+  server: saved-tuna.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: saved-tuna.rooster465.autos
+  skip-cert-verify: false
+- name: 🇸🇬SG-13.251.115.17-0521 | 32.702MB
+  server: intimate-moray.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: intimate-moray.rooster465.autos
+  skip-cert-verify: false
+- name: 🇸🇬SG-54.255.216.250-0554 | 32.623MB
+  server: 54.255.216.250
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: musical-terrier.rooster465.autos
+  skip-cert-verify: false
+- name: 🇸🇬SG-47.129.8.215-0513 | 32.619MB
+  server: relevant-oryx.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: relevant-oryx.rooster465.autos
+  skip-cert-verify: false
+- name: 🇦🇺AU-82.117.225.216-0089 | 32.527MB
+  server: concise-buck.rooster465.autos
+  port: 443
+  type: trojan
+  password: XG59623478
+  sni: concise-buck.rooster465.autos
+  skip-cert-verify: false
+- name: 🇭🇰HK-194.99.79.214-0106 | 32.5MB
+  server: growing-oyster.rooster465.autos
+  port: 443
+  type: trojan
+  password: XG59623478
+  skip-cert-verify: false
+- name: 🇭🇰HK-185.14.47.86-0382 | 32.495MB
+  server: electric-sturgeon.rooster465.autos
+  port: 443
+  type: trojan
+  password: KV63147582
+  sni: electric-sturgeon.rooster465.autos
+  skip-cert-verify: false
+- name: 🇺🇸US-128.242.109.20-5955 | 32.49MB
   server: 128.242.109.20
   port: 17432
   type: vmess
@@ -1159,7 +1004,192 @@ proxies:
   network: ws
   ws-opts:
     path: /
-- name: 🇨🇦CA-23.162.200.227-7845 | 12.137MB
+- name: 🇩🇪DE-8.209.74.72-0118 | 32.481MB
+  server: 8.209.74.72
+  port: 20001
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: PWpjPo3tqhPN4yRZ
+- name: 🇯🇵JP-149.22.87.241-0113 | 32.481MB
+  server: 149.22.87.241
+  port: 443
+  type: ss
+  cipher: aes-128-gcm
+  password: shadowsocks
+- name: 🇰🇷KR-141.164.45.187-0116 | 32.459MB
+  server: 141.164.45.187
+  port: 6679
+  type: ss
+  cipher: aes-256-gcm
+  password: TEzjfAYq2IjtuoS
+- name: 🇯🇵JP-149.22.87.240-0112 | 32.431MB
+  server: 149.22.87.240
+  port: 443
+  type: ss
+  cipher: aes-128-gcm
+  password: shadowsocks
+- name: 🇰🇷KR-141.164.45.187-0114 | 32.422MB
+  server: 141.164.45.187
+  port: 7001
+  type: ss
+  cipher: aes-256-gcm
+  password: RexnBgU7EV5ADxG
+- name: 🇯🇵JP-149.22.87.204-0111 | 32.368MB
+  server: 149.22.87.204
+  port: 443
+  type: ss
+  cipher: aes-128-gcm
+  password: shadowsocks
+- name: RELAY-104.19.230.21-6028 | 32.341MB
+  server: 2cdn.njkrpl.com
+  port: 443
+  type: vmess
+  uuid: a0449b33-d7f6-42a5-8bdc-3b5e727ec9f8
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 2cdn.njkrpl.com
+- name: 🇸🇬SG-54.255.251.6-0383 | 31.97MB
+  server: grateful-owl.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: grateful-owl.rooster465.autos
+  skip-cert-verify: false
+- name: RELAY-172.67.161.104-6026 | 31.582MB
+  server: 8cdn.njkrpl.com
+  port: 443
+  type: vmess
+  uuid: a0449b33-d7f6-42a5-8bdc-3b5e727ec9f8
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 8cdn.njkrpl.com
+- name: 🇬🇧GB-82.38.31.16-0192 | 31.53MB
+  server: 82.38.31.16
+  port: 8080
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+- name: RELAY-104.16.142.237-0386 | 30.739MB
+  server: 4cdn.njkrpl.com
+  port: 443
+  type: vmess
+  uuid: a0449b33-d7f6-42a5-8bdc-3b5e727ec9f8
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: RELAY-104.16.142.237-0386 | 30.739MB
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 4cdn.njkrpl.com
+- name: 🇬🇧GB-82.38.31.17-0189 | 30.424MB
+  server: 82.38.31.17
+  port: 8080
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+- name: 🇩🇪DE-209.46.102.22-0109 | 29.963MB
+  server: 209.46.102.22
+  port: 8388
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 1hhrqrokj3ag
+- name: 🇸🇬SG-13.250.16.181-0119 | 29.222MB
+  server: logical-koala.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: logical-koala.rooster465.autos
+  skip-cert-verify: false
+- name: ZA-102.37.156.224-0131 | 28.647MB
+  server: 102.37.156.224
+  port: 443
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: aduB9HGxQHjA2SBMRjkHX6
+- name: ZA-102.133.165.160-0129 | 28.067MB
+  server: 102.133.165.160
+  port: 16233
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: Xsy8Ox4yOV3xLlpxtjzs3X
+- name: MD-94.131.108.36-0120 | 28.009MB
+  server: 94.131.108.36
+  port: 443
+  type: vmess
+  uuid: 9855f1f0-a800-40d4-8b38-c7d3eb79302d
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+- name: 🇺🇸US-216.105.168.18-0225 | 25.607MB
+  server: 216.105.168.18
+  port: 443
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: hCCWOcIsK5wrFz4OX70rWf
+- name: 🇬🇧GB-94.156.250.148-0132 | 25.541MB
+  server: 94.156.250.148
+  port: 7001
+  type: ss
+  cipher: aes-256-gcm
+  password: RexnBgU7EV5ADxG
+- name: 🇸🇬SG-13.212.252.228-0385 | 24.575MB
+  server: prime-buzzard.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: prime-buzzard.rooster465.autos
+  skip-cert-verify: false
+- name: 🇦🇺AU-104.156.233.234-0125 | 21.162MB
+  server: 104.156.233.234
+  port: 27116
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: bIOoi5TuImG2KccxV7-jcA7Cez+vun-c_E
+- name: 🇸🇬SG-18.143.166.214-0388 | 18.077MB
+  server: evolving-platypus.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: evolving-platypus.rooster465.autos
+  skip-cert-verify: false
+- name: 🇫🇷FR-38.60.168.129-0128 | 17.892MB
+  server: 38.60.168.129
+  port: 443
+  type: trojan
+  password: Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD
+  skip-cert-verify: false
+- name: 🇺🇸US-38.54.80.160-0130 | 16.744MB
+  server: 38.54.80.160
+  port: 16292
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: r_NRe-+WRq2zVqMpCnJtTESlT8WyffHyFy
+- name: 🇩🇪DE-185.137.157.151-0204 | 14.319MB
+  server: 185.137.157.151
+  port: 443
+  type: trojan
+  password: dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q
+  skip-cert-verify: false
+- name: 🇨🇦CA-23.162.200.227-7772 | 12.555MB
   server: 23.162.200.227
   port: 443
   type: vmess
@@ -1171,241 +1201,67 @@ proxies:
   network: ws
   ws-opts:
     path: /
-- name: RELAY-104.19.229.21-0435 | 10.718MB
-  server: 2cdn.njkrpl.com
-  port: 443
-  type: vmess
-  uuid: a0449b33-d7f6-42a5-8bdc-3b5e727ec9f8
-  alterId: 0
-  cipher: auto
-  tls: true
-  skip-cert-verify: false
-  servername: RELAY-104.19.229.21-0435 | 10.718MB
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: 2cdn.njkrpl.com
-- name: RELAY-172.67.161.104-0434 | 10.596MB
-  server: 8cdn.njkrpl.com
-  port: 443
-  type: vmess
-  uuid: a0449b33-d7f6-42a5-8bdc-3b5e727ec9f8
-  alterId: 0
-  cipher: auto
-  tls: true
-  skip-cert-verify: false
-  servername: RELAY-172.67.161.104-0434 | 10.596MB
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: 8cdn.njkrpl.com
-- name: ZA-102.37.156.224-0189 | 10.437MB
-  server: 102.37.156.224
-  port: 443
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: aduB9HGxQHjA2SBMRjkHX6
-- name: ZA-102.133.165.160-0193 | 10.062MB
-  server: 102.133.165.160
-  port: 16233
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: Xsy8Ox4yOV3xLlpxtjzs3X
-- name: RELAY-104.16.143.237-0439 | 9.572MB
-  server: 4cdn.njkrpl.com
-  port: 443
-  type: vmess
-  uuid: a0449b33-d7f6-42a5-8bdc-3b5e727ec9f8
-  alterId: 0
-  cipher: auto
-  tls: true
-  skip-cert-verify: false
-  servername: RELAY-104.16.143.237-0439 | 9.572MB
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: 4cdn.njkrpl.com
-- name: 🇸🇬SG-13.250.16.181-0183 | 9.006MB
-  server: logical-koala.rooster465.autos
-  port: 443
-  type: trojan
-  password: CF68213490
-  sni: logical-koala.rooster465.autos
-  skip-cert-verify: false
-- name: 🇬🇧GB-94.156.250.148-0192 | 8.045MB
-  server: 94.156.250.148
-  port: 7001
-  type: ss
-  cipher: aes-256-gcm
-  password: RexnBgU7EV5ADxG
-- name: 🇲🇾MY-47.250.45.234-6082 | 7.638MB
-  server: 47.250.45.234
-  port: 43063
-  type: vmess
-  uuid: c77f48f5-4be3-4461-b52b-49998e7b897b
-  alterId: 0
-  cipher: auto
-  tls: false
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: /
-- name: 🇬🇧GB-82.38.31.35-0202 | 7.62MB
-  server: 82.38.31.35
-  port: 8080
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: oZIoA69Q8yhcQV8ka3Pa3A
-- name: 🇲🇾MY-47.250.45.234-6083 | 7.254MB
-  server: 47.250.45.234
-  port: 8613
-  type: vmess
-  uuid: 80039b4d-bac0-4f89-82c7-54fad3b0a1ea
-  alterId: 0
-  cipher: auto
-  tls: false
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: /
-- name: 🇦🇺AU-104.156.233.234-0185 | 6.795MB
-  server: 104.156.233.234
-  port: 27116
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: bIOoi5TuImG2KccxV7-jcA7Cez+vun-c_E
-- name: 🇨🇳TW-36.224.147.203-0246 | 6.194MB
-  server: r3mrcg001287h3p.cybervena.com
-  port: 50099
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4
-- name: 🇮🇳IN-103.111.114.71-0197 | 5.951MB
-  server: 103.111.114.71
-  port: 28061
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: WOir3lXBhMHDcLFPQdEZXPu37_pTQDCXfm
-- name: 🇮🇳IN-103.111.114.80-0198 | 5.947MB
-  server: 103.111.114.80
-  port: 28061
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: WOir3lXBhMHDcLFPQdEZXPu37_pTQDCXfm
-- name: 🇸🇬SG-56.10.43.137-0174 | 5.924MB
-  server: aw-sg.vndmall.pro
-  port: 8888
-  type: ss
-  cipher: aes-256-gcm
-  password: a338A9
-- name: 🇮🇳IN-103.111.114.82-0199 | 5.536MB
-  server: 103.111.114.82
-  port: 28061
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: WOir3lXBhMHDcLFPQdEZXPu37_pTQDCXfm
-- name: 🇫🇷FR-38.60.168.129-0188 | 5.278MB
-  server: 38.60.168.129
-  port: 443
-  type: trojan
-  password: Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD
-  skip-cert-verify: false
-- name: NO-185.213.23.63-0187 | 4.609MB
-  server: 185.213.23.63
-  port: 990
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
-- name: 🇺🇸US-38.54.80.160-0191 | 3.878MB
-  server: 38.54.80.160
-  port: 16292
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: r_NRe-+WRq2zVqMpCnJtTESlT8WyffHyFy
-- name: 🇩🇪DE-185.137.157.151-0211 | 3.845MB
-  server: 185.137.157.151
-  port: 443
-  type: trojan
-  password: dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q
-  skip-cert-verify: false
-- name: 🇩🇪DE-185.137.157.135-0208 | 3.763MB
-  server: 185.137.157.135
-  port: 443
-  type: trojan
-  password: dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q
-  skip-cert-verify: false
-- name: 🇩🇪DE-185.137.157.128-0207 | 3.755MB
-  server: 185.137.157.128
-  port: 443
-  type: trojan
-  password: dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q
-  skip-cert-verify: false
-- name: 🇩🇪DE-185.137.157.145-0214 | 3.694MB
-  server: 185.137.157.145
-  port: 443
-  type: trojan
-  password: dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q
-  skip-cert-verify: false
-- name: 🇩🇪DE-185.137.157.142-0212 | 3.647MB
-  server: 185.137.157.142
-  port: 443
-  type: trojan
-  password: dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q
-  skip-cert-verify: false
-- name: 🇬🇧GB-82.38.31.218-0186 | 3.604MB
-  server: 82.38.31.218
-  port: 8080
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: k1dBOmOB4oqi7Ump37a1bQ
-- name: 🇩🇪DE-185.137.157.140-0215 | 3.584MB
+- name: 🇩🇪DE-185.137.157.140-0145 | 12.351MB
   server: 185.137.157.140
   port: 443
   type: trojan
   password: dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q
   skip-cert-verify: false
-- name: 🇩🇪DE-185.137.157.156-0209 | 3.521MB
+- name: 🇩🇪DE-185.137.157.128-0208 | 11.908MB
+  server: 185.137.157.128
+  port: 443
+  type: trojan
+  password: dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q
+  skip-cert-verify: false
+- name: 🇩🇪DE-185.137.157.156-0144 | 11.839MB
   server: 185.137.157.156
   port: 443
   type: trojan
   password: dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q
   skip-cert-verify: false
-- name: 🇩🇪DE-185.137.157.138-0210 | 3.518MB
-  server: 185.137.157.138
+- name: 🇨🇳TW-36.224.158.182-0135 | 9.566MB
+  server: r3mrcg001286ek2.cybervena.com
+  port: 50099
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4
+- name: 🇩🇪DE-185.137.157.145-0185 | 9.309MB
+  server: 185.137.157.145
   port: 443
   type: trojan
   password: dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q
   skip-cert-verify: false
-- name: 🇺🇸US-38.54.64.247-0203 | 3.51MB
-  server: 38.54.64.247
+- name: 🇩🇪DE-185.137.157.135-0209 | 8.948MB
+  server: 185.137.157.135
   port: 443
   type: trojan
-  password: ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk
+  password: dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q
   skip-cert-verify: false
-- name: 🇩🇪DE-185.137.157.149-0213 | 3.182MB
+- name: 🇩🇪DE-185.137.157.142-0143 | 8.48MB
+  server: 185.137.157.142
+  port: 443
+  type: trojan
+  password: dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q
+  skip-cert-verify: false
+- name: 🇩🇪DE-185.137.157.149-2191 | 8.132MB
   server: 185.137.157.149
   port: 443
   type: trojan
   password: dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q
   skip-cert-verify: false
-- name: 🇰🇷KR-152.67.218.38-0216 | 3.115MB
-  server: 152.67.218.38
+- name: 🇺🇸US-38.54.64.247-0139 | 7.364MB
+  server: 38.54.64.247
   port: 443
-  type: vmess
-  uuid: b5e9480a-b7aa-40a4-f9a7-5299b5e363b4
-  alterId: 0
-  cipher: auto
-  tls: false
+  type: trojan
+  password: ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk
   skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: 152.67.218.38
-- name: 🇨🇦CA-134.195.198.147-7847 | 3.01MB
+- name: 🇨🇳TW-61.231.0.83-0182 | 6.931MB
+  server: r3mrcg001287h3p.cybervena.com
+  port: 50099
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4
+- name: 🇨🇦CA-134.195.198.147-7774 | 6.597MB
   server: 134.195.198.147
   port: 443
   type: vmess
@@ -1419,12 +1275,136 @@ proxies:
     path: /
     headers:
       Host: inna.cfd
-- name: 🇩🇪DE-213.202.208.199-0218 | 3.009MB
+- name: 🇬🇧GB-82.38.31.35-0136 | 6.302MB
+  server: 82.38.31.35
+  port: 8080
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+- name: 🇬🇧GB-82.38.31.199-0137 | 6.201MB
+  server: 82.38.31.199
+  port: 8080
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: k1dBOmOB4oqi7Ump37a1bQ
+- name: RELAY-104.21.77.204-6018 | 5.923MB
+  server: zt-ai.cloud
+  port: 443
+  type: vmess
+  uuid: fce3d6a4-0f12-49b5-a810-84bcf0fde202
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: zt-ai.cloud
+- name: 🇬🇧GB-82.38.31.216-0140 | 5.694MB
+  server: 82.38.31.216
+  port: 8080
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: k1dBOmOB4oqi7Ump37a1bQ
+- name: 🇬🇧GB-82.38.31.176-0126 | 5.443MB
+  server: 82.38.31.176
+  port: 8080
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: k1dBOmOB4oqi7Ump37a1bQ
+- name: 🇬🇧GB-82.38.31.217-0155 | 5.135MB
+  server: 82.38.31.217
+  port: 8080
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: k1dBOmOB4oqi7Ump37a1bQ
+- name: 🇬🇧GB-82.38.31.7-0159 | 4.598MB
+  server: 82.38.31.7
+  port: 8080
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+- name: 🇬🇧GB-82.38.31.2-0157 | 4.172MB
+  server: 82.38.31.2
+  port: 8080
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+- name: 🇬🇧GB-141.98.101.182-0160 | 3.645MB
+  server: 141.98.101.182
+  port: 443
+  type: ss
+  cipher: aes-128-gcm
+  password: shadowsocks
+- name: 🇬🇧GB-141.98.101.179-0163 | 3.56MB
+  server: 141.98.101.179
+  port: 443
+  type: ss
+  cipher: aes-128-gcm
+  password: shadowsocks
+- name: 🇬🇧GB-82.38.31.219-0141 | 3.547MB
+  server: 82.38.31.219
+  port: 8080
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: k1dBOmOB4oqi7Ump37a1bQ
+- name: 🇬🇧GB-141.98.101.181-0162 | 2.998MB
+  server: 141.98.101.181
+  port: 443
+  type: ss
+  cipher: aes-128-gcm
+  password: shadowsocks
+- name: 🇬🇧GB-141.98.101.178-0161 | 2.91MB
+  server: 141.98.101.178
+  port: 443
+  type: ss
+  cipher: aes-128-gcm
+  password: shadowsocks
+- name: 🇯🇵JP-52.196.71.137-0051 | 2.76MB
+  server: star-dodo.rooster465.autos
+  port: 443
+  type: trojan
+  password: CF68213490
+  sni: star-dodo.rooster465.autos
+  skip-cert-verify: false
+- name: 🇮🇳IN-103.111.114.82-0169 | 2.47MB
+  server: 103.111.114.82
+  port: 28061
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: WOir3lXBhMHDcLFPQdEZXPu37_pTQDCXfm
+- name: 🇮🇳IN-103.111.114.80-0167 | 2.389MB
+  server: 103.111.114.80
+  port: 28061
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: WOir3lXBhMHDcLFPQdEZXPu37_pTQDCXfm
+- name: IE-3.249.67.252-0166 | 2.065MB
+  server: singular-lark.rooster465.autos
+  port: 443
+  type: trojan
+  password: XG59623478
+  sni: singular-lark.rooster465.autos
+  skip-cert-verify: false
+- name: 🇮🇳IN-103.111.114.71-0165 | 1.679MB
+  server: 103.111.114.71
+  port: 28061
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: WOir3lXBhMHDcLFPQdEZXPu37_pTQDCXfm
+- name: 🇩🇪DE-213.202.208.199-0193 | 1.004MB
   server: 213.202.208.199
   port: 7001
   type: ss
   cipher: aes-256-gcm
   password: RexnBgU7EV5ADxG
+- name: 🇺🇸US-147.90.234.133-2216 | 0.871MB
+  server: tinkered-pennies-puppies.freesocks.work
+  port: 443
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: hbGrpfvNrJsUmKmPbR3iY2
 proxy-groups:
 - name: Global ©️
   type: select
@@ -1481,224 +1461,224 @@ proxy-groups:
   interval: 300
   tolerance: 100
   proxies:
-  - 🇨🇦CA-137.184.174.93-0117 | 309.489MB
-  - 🇺🇸US-156.146.38.170-0106 | 264.569MB
-  - 🇺🇸US-156.146.38.167-0105 | 147.733MB
-  - 🇺🇸US-156.146.38.168-0107 | 116.506MB
-  - 🇺🇸US-37.19.198.243-0157 | 112.051MB
-  - 🇺🇸US-156.146.38.169-0104 | 108.991MB
-  - 🇺🇸US-37.19.198.236-0155 | 108.429MB
-  - 🇺🇸US-37.19.198.160-0156 | 66.771MB
-  - 🇺🇸US-37.19.198.244-0158 | 66.312MB
-  - 🇺🇸US-108.181.0.177-0100 | 66.236MB
-  - 🇬🇧GB-82.38.31.186-0149 | 65.953MB
-  - 🇨🇦CA-108.181.118.10-0099 | 65.916MB
-  - 🇬🇧GB-82.38.31.191-0141 | 65.86MB
-  - 🇬🇧GB-82.38.31.202-0122 | 65.673MB
-  - 🇬🇧GB-82.38.31.57-0129 | 65.598MB
-  - 🇬🇧GB-82.38.31.210-0148 | 65.524MB
-  - 🇬🇧GB-146.70.61.37-0276 | 65.505MB
-  - 🇬🇧GB-82.38.31.192-0151 | 65.468MB
-  - 🇬🇧GB-82.38.31.214-0121 | 65.413MB
-  - 🇬🇧GB-82.38.31.189-0150 | 65.394MB
-  - 🇬🇧GB-82.38.31.208-0115 | 65.302MB
-  - 🇬🇧GB-82.38.31.149-0127 | 65.247MB
-  - 🇬🇧GB-82.38.31.187-0124 | 65.137MB
-  - 🇬🇧GB-82.38.31.184-0126 | 65.1MB
-  - 🇬🇧GB-82.38.31.205-0119 | 65.082MB
-  - 🇬🇧GB-82.38.31.17-0154 | 65.045MB
-  - 🇳🇱NL-193.29.139.151-0145 | 65.045MB
-  - 🇬🇧GB-82.38.31.15-0120 | 64.972MB
-  - 🇬🇧GB-82.38.31.179-0118 | 64.899MB
-  - 🇳🇱NL-193.29.139.204-0116 | 64.881MB
-  - 🇳🇱NL-193.29.139.235-0128 | 64.827MB
-  - 🇺🇸US-173.244.56.9-0102 | 64.574MB
-  - 🇺🇸US-173.244.56.6-0101 | 64.538MB
-  - 🇩🇪DE-3.76.41.23-0567 | 64.52MB
-  - 🇩🇪DE-18.195.11.206-0562 | 64.502MB
-  - 🇩🇪DE-63.180.59.60-3153 | 64.448MB
-  - 🇳🇱NL-109.201.152.181-0159 | 64.448MB
-  - 🇬🇧GB-82.38.31.16-0138 | 64.412MB
-  - 🇨🇦CA-149.22.95.183-0103 | 64.34MB
-  - 🇯🇵JP-13.112.1.163-0526 | 64.215MB
-  - 🇯🇵JP-3.112.231.253-0540 | 64.162MB
-  - 🇯🇵JP-43.206.224.40-0504 | 64.144MB
-  - 🇯🇵JP-54.168.247.156-0517 | 64.073MB
-  - 🇯🇵JP-18.183.149.237-0523 | 63.861MB
-  - 🇯🇵JP-52.199.23.158-0536 | 63.826MB
-  - 🇯🇵JP-43.206.235.148-0508 | 63.808MB
-  - 🇯🇵JP-13.231.189.62-0514 | 63.633MB
-  - 🇯🇵JP-3.112.212.133-0532 | 63.441MB
-  - 🇯🇵JP-52.197.223.110-0518 | 63.199MB
-  - 🇯🇵JP-52.68.237.45-0538 | 63.181MB
+  - 🇺🇸US-156.146.38.169-0147 | 129.69MB
+  - 🇺🇸US-156.146.38.168-0146 | 118.534MB
+  - 🇺🇸US-37.19.198.244-0095 | 109.818MB
+  - 🇺🇸US-156.146.38.170-0149 | 107.423MB
+  - 🇺🇸US-156.146.38.167-0148 | 100.738MB
+  - 🇺🇸US-37.19.198.243-0091 | 96.457MB
+  - 🇺🇸US-3.145.57.90-0101 | 90.147MB
+  - 🇺🇸US-37.19.198.236-0087 | 88.526MB
+  - 🇺🇸US-13.59.31.133-0102 | 88.459MB
+  - 🇺🇸US-37.19.198.160-0090 | 87.423MB
+  - 🇺🇸US-108.181.0.177-0046 | 87.193MB
+  - 🇬🇧GB-82.38.31.202-0069 | 86.996MB
+  - 🇨🇦CA-108.181.118.10-0045 | 86.606MB
+  - 🇬🇧GB-82.38.31.179-0228 | 86.412MB
+  - 🇬🇧GB-82.38.31.10-0158 | 86.219MB
+  - 🇳🇱NL-193.29.139.151-0108 | 86.122MB
+  - 🇬🇧GB-146.70.61.37-5970 | 85.962MB
+  - 🇬🇧GB-82.38.31.187-0084 | 85.899MB
+  - 🇬🇧GB-82.38.31.192-0103 | 85.549MB
+  - 🇬🇧GB-82.38.31.57-0078 | 84.766MB
+  - 🇬🇧GB-82.38.31.149-0079 | 84.242MB
+  - 🇬🇧GB-82.38.31.208-0086 | 84.058MB
+  - 🇬🇧GB-82.38.31.210-0083 | 83.543MB
+  - 🇬🇧GB-82.38.31.155-0085 | 83.212MB
+  - 🇬🇧GB-82.38.31.15-0059 | 82.707MB
+  - 🇳🇱NL-193.29.139.235-0065 | 80.577MB
+  - 🇬🇧GB-82.38.31.186-0097 | 79.826MB
+  - 🇬🇧GB-82.38.31.191-0100 | 78.928MB
+  - 🇬🇧GB-82.38.31.205-0092 | 78.874MB
+  - 🇩🇪DE-3.67.171.41-0387 | 78.58MB
+  - 🇩🇪DE-18.184.4.15-0381 | 77.657MB
+  - 🇬🇧GB-82.38.31.214-0110 | 77.631MB
+  - 🇩🇪DE-63.180.59.60-3106 | 77.475MB
+  - 🇩🇪DE-18.195.11.206-0514 | 75.283MB
+  - 🇬🇧GB-82.38.31.194-0138 | 74.966MB
+  - 🇺🇸US-173.244.56.6-0047 | 74.845MB
+  - 🇬🇧GB-82.38.31.35-0133 | 73.725MB
+  - 🇳🇱NL-193.29.139.204-0057 | 72.479MB
+  - 🇬🇧GB-82.38.31.184-0082 | 69.938MB
+  - 🇩🇪DE-3.76.41.23-0519 | 67.887MB
+  - 🇯🇵JP-45.76.202.45-6000 | 60.348MB
+  - 🇺🇸US-173.244.56.9-0048 | 54.38MB
+  - 🇯🇵JP-18.183.172.225-0482 | 52.022MB
+  - 🇯🇵JP-54.178.7.201-0379 | 51.951MB
+  - 🇯🇵JP-52.195.207.214-0553 | 51.148MB
+  - 🇯🇵JP-52.195.215.200-0486 | 48.542MB
+  - 🇯🇵JP-52.199.23.158-0488 | 48.258MB
+  - 🇯🇵JP-43.207.153.3-0463 | 46.748MB
+  - 🇯🇵JP-54.178.35.10-0053 | 46.56MB
+  - 🇳🇱NL-193.169.239.76-0105 | 46.401MB
 - name: Tier 2 ⚡️
   type: url-test
   url: http://clients3.google.com/generate_204
   interval: 300
   tolerance: 100
   proxies:
-  - 🇯🇵JP-52.195.215.200-0534 | 63.044MB
-  - 🇯🇵JP-52.198.124.62-0529 | 62.992MB
-  - 🇯🇵JP-43.207.210.229-0505 | 62.583MB
-  - 🇯🇵JP-3.112.149.206-0533 | 62.516MB
-  - 🇯🇵JP-18.183.164.154-0108 | 62.097MB
-  - 🇯🇵JP-52.197.36.228-0524 | 61.98MB
-  - 🇳🇱NL-193.169.239.76-0163 | 61.864MB
-  - 🇯🇵JP-54.178.35.10-0112 | 61.634MB
-  - 🇯🇵JP-18.177.136.64-0520 | 61.617MB
-  - 🇯🇵JP-54.238.160.68-0510 | 60.92MB
-  - 🇯🇵JP-52.195.207.214-3163 | 60.364MB
-  - 🇯🇵JP-54.65.43.16-0507 | 60.16MB
-  - 🇯🇵JP-13.115.80.163-0528 | 60.113MB
-  - 🇯🇵JP-43.207.153.3-0511 | 59.973MB
-  - 🇯🇵JP-13.231.188.13-0535 | 59.896MB
-  - 🇯🇵JP-54.168.65.98-0515 | 59.649MB
-  - 🇯🇵JP-52.198.88.225-0527 | 59.343MB
-  - 🇯🇵JP-54.248.6.109-3147 | 59.221MB
-  - 🇯🇵JP-43.207.122.159-3157 | 59.115MB
-  - 🇯🇵JP-18.181.201.45-0531 | 58.4MB
-  - 🇯🇵JP-43.207.109.243-0537 | 58.355MB
-  - 🇯🇵JP-52.196.71.137-0110 | 58.136MB
-  - 🇯🇵JP-54.248.166.163-0522 | 57.744MB
-  - 🇯🇵JP-43.207.107.39-0519 | 57.572MB
-  - 🇯🇵JP-18.183.172.225-0530 | 57.472MB
-  - 🇯🇵JP-43.207.204.233-0516 | 57.4MB
-  - 🇯🇵JP-43.207.117.135-0512 | 57.188MB
-  - 🇯🇵JP-35.77.85.144-0513 | 56.531MB
-  - 🇯🇵JP-54.65.240.194-0503 | 56.462MB
-  - 🇯🇵JP-54.250.235.241-0506 | 56.298MB
-  - 🇯🇵JP-3.112.189.201-3134 | 56.202MB
-  - 🇯🇵JP-18.183.224.87-0521 | 56.175MB
-  - 🇯🇵JP-52.194.192.245-0111 | 56.066MB
-  - 🇯🇵JP-54.238.124.150-3159 | 55.957MB
-  - 🇯🇵JP-54.178.7.201-0604 | 55.742MB
-  - 🇯🇵JP-3.112.234.3-3165 | 55.742MB
-  - 🇯🇵JP-52.195.207.214-0601 | 55.316MB
-  - 🇯🇵JP-52.194.255.244-0595 | 55.25MB
-  - 🇯🇵JP-35.77.91.8-0509 | 54.974MB
-  - 🇯🇵JP-54.199.102.210-0525 | 54.909MB
-  - 🇯🇵JP-43.207.117.135-0600 | 54.025MB
-  - 🇯🇵JP-54.178.0.218-0539 | 53.575MB
-  - 🇯🇵JP-35.72.9.75-0599 | 53.095MB
-  - 🇯🇵JP-45.76.202.45-6077 | 53.01MB
-  - 🇯🇵JP-13.230.252.28-3146 | 52.901MB
-  - 🇯🇵JP-35.72.9.75-3148 | 52.805MB
-  - 🇯🇵JP-18.176.53.202-0565 | 52.757MB
-  - 🇯🇵JP-13.112.180.140-3128 | 52.649MB
-  - 🇯🇵JP-18.177.140.248-0556 | 52.613MB
-  - 🇯🇵JP-13.115.229.63-0598 | 52.422MB
+  - 🇯🇵JP-18.176.53.202-0517 | 46.271MB
+  - 🇯🇵JP-43.207.210.229-0457 | 46.234MB
+  - 🇯🇵JP-43.207.122.159-0384 | 45.895MB
+  - 🇯🇵JP-54.248.6.109-3092 | 45.859MB
+  - 🇯🇵JP-18.177.136.64-0472 | 45.427MB
+  - 🇯🇵JP-54.168.65.98-0467 | 45.347MB
+  - 🇯🇵JP-52.68.237.45-0490 | 45.17MB
+  - 🇵🇱PL-62.112.222.212-3093 | 45.17MB
+  - 🇯🇵JP-54.168.247.156-0469 | 45.091MB
+  - 🇯🇵JP-43.207.117.135-0552 | 45.047MB
+  - 🇯🇵JP-18.181.201.45-0483 | 45.038MB
+  - 🇯🇵JP-3.112.189.201-0391 | 45.029MB
+  - 🇯🇵JP-18.177.140.248-0508 | 45.012MB
+  - 🇯🇵JP-3.112.149.206-0485 | 44.994MB
+  - 🇯🇵JP-43.207.117.135-0464 | 44.986MB
+  - 🇯🇵JP-52.194.255.244-0547 | 44.959MB
+  - 🇯🇵JP-43.207.204.233-0468 | 44.951MB
+  - 🇯🇵JP-43.207.109.243-0489 | 44.951MB
+  - 🇯🇵JP-54.178.0.218-0491 | 44.942MB
+  - 🇯🇵JP-54.65.43.16-0459 | 44.942MB
+  - 🇯🇵JP-52.197.223.110-0470 | 44.916MB
+  - 🇯🇵JP-3.112.212.133-0484 | 44.898MB
+  - 🇯🇵JP-18.183.224.87-0473 | 44.898MB
+  - 🇯🇵JP-54.65.240.194-0455 | 44.881MB
+  - 🇯🇵JP-13.115.229.63-0550 | 44.872MB
+  - 🇯🇵JP-43.207.107.39-0471 | 44.863MB
+  - 🇯🇵JP-52.194.192.245-0055 | 44.82MB
+  - 🇯🇵JP-35.72.9.75-0551 | 44.82MB
+  - 🇯🇵JP-54.250.235.241-0458 | 44.803MB
+  - 🇯🇵JP-52.198.88.225-0479 | 44.777MB
+  - 🇯🇵JP-52.198.124.62-0481 | 44.777MB
+  - 🇯🇵JP-43.206.235.148-0460 | 44.768MB
+  - 🇯🇵JP-35.77.91.8-0461 | 44.733MB
+  - 🇯🇵JP-18.183.149.237-0475 | 44.733MB
+  - 🇯🇵JP-3.112.231.253-0492 | 44.69MB
+  - 🇯🇵JP-13.231.189.62-0466 | 44.682MB
+  - 🇯🇵JP-43.206.224.40-0456 | 44.673MB
+  - 🇯🇵JP-18.183.164.154-0052 | 44.656MB
+  - 🇯🇵JP-3.112.234.3-0380 | 44.613MB
+  - 🇯🇵JP-54.199.102.210-0477 | 44.553MB
+  - 🇨🇦CA-149.22.95.183-0049 | 44.535MB
+  - 🇳🇱NL-109.201.152.181-0094 | 44.527MB
+  - 🇯🇵JP-54.248.166.163-0474 | 44.441MB
+  - 🇯🇵JP-52.197.36.228-0476 | 44.424MB
+  - 🇯🇵JP-13.231.188.13-0487 | 44.39MB
+  - 🇯🇵JP-35.77.85.144-0465 | 44.373MB
+  - 🇯🇵JP-13.112.1.163-0478 | 44.348MB
+  - 🇯🇵JP-54.238.160.68-0462 | 44.331MB
+  - 🇯🇵JP-13.115.229.63-0549 | 44.322MB
+  - 🇺🇸US-107.161.82.89-5956 | 44.305MB
 - name: Tier 3 💎
   type: url-test
   url: http://clients3.google.com/generate_204
   interval: 300
   tolerance: 100
   proxies:
-  - 🇯🇵JP-13.115.229.63-0597 | 52.292MB
-  - 🇰🇷KR-13.124.122.135-0130 | 52.162MB
-  - 🇰🇷KR-3.38.190.61-0140 | 52.115MB
-  - 🇰🇷KR-43.201.64.246-0136 | 52.115MB
-  - 🇰🇷KR-3.36.52.205-0146 | 52.103MB
-  - 🇰🇷KR-13.125.159.219-0135 | 51.951MB
-  - 🇰🇷KR-3.35.81.139-0131 | 51.87MB
-  - 🇰🇷KR-3.39.248.52-0555 | 51.812MB
-  - 🇰🇷KR-43.201.146.77-0143 | 51.273MB
-  - 🇰🇷KR-3.35.214.88-3158 | 51.216MB
-  - 🇰🇷KR-54.180.1.187-0137 | 51.205MB
-  - 🇰🇷KR-3.36.94.34-0152 | 50.934MB
-  - 🇰🇷KR-54.180.228.205-0134 | 50.767MB
-  - 🇰🇷KR-54.180.248.218-0147 | 50.667MB
-  - 🇰🇷KR-43.203.209.247-0142 | 50.435MB
-  - 🇰🇷KR-54.180.139.180-0139 | 47.244MB
-  - 🇰🇷KR-43.201.102.23-0132 | 46.345MB
-  - 🇰🇷KR-54.180.233.91-3140 | 45.347MB
-  - 🇰🇷KR-3.38.213.204-0144 | 44.424MB
-  - 🇰🇷KR-54.180.235.223-0123 | 43.254MB
-  - 🇰🇷KR-52.79.117.94-0133 | 43.23MB
-  - 🇰🇷KR-3.36.60.83-0559 | 42.244MB
-  - 🇯🇵JP-176.34.18.166-3129 | 42.128MB
-  - 🇳🇱NL-108.181.58.239-0167 | 42.067MB
-  - 🇩🇪DE-209.46.102.22-0166 | 41.953MB
-  - 🇳🇱NL-108.181.126.122-0171 | 41.9MB
-  - 🇦🇺AU-82.117.225.56-0161 | 41.816MB
-  - 🇸🇬SG-47.129.229.87-0560 | 41.779MB
-  - 🇸🇬SG-54.255.158.218-3152 | 41.741MB
-  - 🇸🇬SG-47.131.233.29-0558 | 41.561MB
-  - 🇸🇬SG-18.141.239.172-0566 | 41.531MB
-  - 🇸🇬SG-18.136.143.231-0160 | 41.494MB
-  - 🇦🇺AU-82.117.225.216-0153 | 41.368MB
-  - 🇸🇬SG-47.131.229.111-0564 | 41.361MB
-  - 🇸🇬SG-52.221.255.155-3164 | 41.221MB
-  - 🇸🇬SG-47.129.8.215-0561 | 41.096MB
-  - 🇸🇬SG-54.255.216.250-0602 | 40.835MB
-  - 🇸🇬SG-13.212.190.163-0596 | 40.728MB
-  - 🇸🇬SG-47.128.246.104-0563 | 40.302MB
-  - 🇸🇬SG-54.255.216.250-3144 | 40.079MB
-  - 🇸🇬SG-13.251.115.17-0569 | 39.92MB
-  - 🇸🇬SG-18.143.179.167-0568 | 39.653MB
-  - 🇸🇬SG-56.10.12.139-0162 | 39.363MB
-  - 🇸🇬SG-54.255.251.6-0603 | 37.826MB
-  - 🇸🇬SG-18.143.166.214-3173 | 36.915MB
-  - 🇸🇬SG-13.229.60.15-0557 | 35.941MB
-  - 🇳🇱NL-158.173.20.171-0175 | 35.818MB
-  - 🇸🇬SG-52.221.218.103-0541 | 34.311MB
-  - 🇸🇬SG-18.142.251.222-3137 | 33.005MB
-  - 🇸🇬SG-13.212.252.228-3133 | 32.752MB
+  - 🇰🇷KR-3.35.214.88-3096 | 44.305MB
+  - 🇰🇷KR-13.124.122.135-0062 | 44.288MB
+  - 🇰🇷KR-52.79.117.94-0066 | 44.271MB
+  - 🇰🇷KR-3.36.60.83-0511 | 44.204MB
+  - 🇰🇷KR-3.39.248.52-0507 | 44.086MB
+  - 🇰🇷KR-3.38.213.204-0061 | 44.019MB
+  - 🇰🇷KR-54.180.1.187-0070 | 43.613MB
+  - 🇰🇷KR-54.180.228.205-0081 | 43.481MB
+  - 🇰🇷KR-43.201.46.29-0067 | 40.692MB
+  - 🇰🇷KR-54.180.248.218-0077 | 40.372MB
+  - 🇺🇸US-107.161.82.89-5954 | 40.044MB
+  - 🇰🇷KR-43.201.146.77-0063 | 39.721MB
+  - 🇰🇷KR-3.35.81.139-0073 | 39.633MB
+  - 🇰🇷KR-43.203.209.247-0071 | 39.243MB
+  - 🇯🇵JP-13.115.80.163-0480 | 39.177MB
+  - 🇰🇷KR-43.201.64.246-0080 | 39.091MB
+  - 🇰🇷KR-3.36.94.34-0076 | 39.077MB
+  - 🇰🇷KR-3.38.190.61-0075 | 39.071MB
+  - 🇰🇷KR-54.180.235.223-0072 | 39.025MB
+  - 🇰🇷KR-54.180.139.180-0074 | 39.012MB
+  - 🇳🇱NL-89.39.70.233-1968 | 39.005MB
+  - 🇰🇷KR-3.36.52.205-0058 | 38.992MB
+  - 🇰🇷KR-13.125.159.219-0060 | 38.979MB
+  - 🇰🇷KR-43.201.102.23-0064 | 38.972MB
+  - 🇸🇬SG-47.128.246.104-0515 | 38.953MB
+  - 🇦🇺AU-82.117.225.56-0088 | 38.92MB
+  - 🇸🇬SG-18.143.164.105-0506 | 38.894MB
+  - 🇸🇬SG-18.143.179.167-0520 | 38.822MB
+  - 🇸🇬SG-18.141.239.172-0518 | 38.796MB
+  - 🇸🇬SG-13.229.60.15-0509 | 38.783MB
+  - 🇸🇬SG-47.131.229.111-0390 | 38.757MB
+  - 🇸🇬SG-47.131.233.29-0510 | 38.75MB
+  - 🇸🇬SG-18.136.143.231-0096 | 37.519MB
+  - 🇸🇬SG-47.129.229.87-0389 | 37.459MB
+  - 🇸🇬SG-52.221.218.103-0493 | 34.382MB
+  - 🇸🇬SG-13.212.190.163-0548 | 33.78MB
+  - 🇸🇬SG-56.10.12.139-0098 | 32.748MB
+  - 🇸🇬SG-13.251.115.17-0521 | 32.702MB
+  - 🇸🇬SG-54.255.216.250-0554 | 32.623MB
+  - 🇸🇬SG-47.129.8.215-0513 | 32.619MB
+  - 🇦🇺AU-82.117.225.216-0089 | 32.527MB
+  - 🇭🇰HK-194.99.79.214-0106 | 32.5MB
+  - 🇭🇰HK-185.14.47.86-0382 | 32.495MB
+  - 🇺🇸US-128.242.109.20-5955 | 32.49MB
+  - 🇩🇪DE-8.209.74.72-0118 | 32.481MB
+  - 🇯🇵JP-149.22.87.241-0113 | 32.481MB
+  - 🇰🇷KR-141.164.45.187-0116 | 32.459MB
+  - 🇯🇵JP-149.22.87.240-0112 | 32.431MB
+  - 🇰🇷KR-141.164.45.187-0114 | 32.422MB
+  - 🇯🇵JP-149.22.87.204-0111 | 32.368MB
 - name: Tier 4 🗿
   type: url-test
   url: http://clients3.google.com/generate_204
   interval: 300
   tolerance: 100
   proxies:
-  - 🇸🇬SG-54.255.225.60-3135 | 32.215MB
-  - 🇭🇰HK-194.99.79.214-0164 | 30.304MB
-  - 🇬🇧GB-82.38.31.155-0125 | 29.809MB
-  - 🇸🇬SG-18.143.164.105-0554 | 25.476MB
-  - 🇺🇸US-107.161.82.89-6029 | 25.47MB
-  - 🇺🇸US-107.161.82.89-6027 | 24.153MB
-  - 🇬🇧GB-141.98.101.181-0245 | 20.243MB
-  - 🇬🇧GB-141.98.101.179-0178 | 18.068MB
-  - 🇰🇷KR-141.164.45.187-0176 | 17.044MB
-  - 🇬🇧GB-141.98.101.178-0179 | 16.879MB
-  - 🇬🇧GB-141.98.101.182-0177 | 16.446MB
-  - 🇩🇪DE-8.209.74.72-0180 | 16.039MB
-  - TR-83.217.9.17-0181 | 16.012MB
-  - MD-94.131.108.36-0182 | 15.37MB
-  - 🇰🇷KR-141.164.45.187-0173 | 15.093MB
-  - 🇺🇸US-216.105.168.18-0165 | 14.476MB
-  - 🇺🇸US-128.242.109.20-6028 | 12.419MB
-  - 🇨🇦CA-23.162.200.227-7845 | 12.137MB
-  - RELAY-104.19.229.21-0435 | 10.718MB
-  - RELAY-172.67.161.104-0434 | 10.596MB
-  - ZA-102.37.156.224-0189 | 10.437MB
-  - ZA-102.133.165.160-0193 | 10.062MB
-  - RELAY-104.16.143.237-0439 | 9.572MB
-  - 🇸🇬SG-13.250.16.181-0183 | 9.006MB
-  - 🇬🇧GB-94.156.250.148-0192 | 8.045MB
-  - 🇲🇾MY-47.250.45.234-6082 | 7.638MB
-  - 🇬🇧GB-82.38.31.35-0202 | 7.62MB
-  - 🇲🇾MY-47.250.45.234-6083 | 7.254MB
-  - 🇦🇺AU-104.156.233.234-0185 | 6.795MB
-  - 🇨🇳TW-36.224.147.203-0246 | 6.194MB
-  - 🇮🇳IN-103.111.114.71-0197 | 5.951MB
-  - 🇮🇳IN-103.111.114.80-0198 | 5.947MB
-  - 🇸🇬SG-56.10.43.137-0174 | 5.924MB
-  - 🇮🇳IN-103.111.114.82-0199 | 5.536MB
-  - 🇫🇷FR-38.60.168.129-0188 | 5.278MB
-  - NO-185.213.23.63-0187 | 4.609MB
-  - 🇺🇸US-38.54.80.160-0191 | 3.878MB
-  - 🇩🇪DE-185.137.157.151-0211 | 3.845MB
-  - 🇩🇪DE-185.137.157.135-0208 | 3.763MB
-  - 🇩🇪DE-185.137.157.128-0207 | 3.755MB
-  - 🇩🇪DE-185.137.157.145-0214 | 3.694MB
-  - 🇩🇪DE-185.137.157.142-0212 | 3.647MB
-  - 🇬🇧GB-82.38.31.218-0186 | 3.604MB
-  - 🇩🇪DE-185.137.157.140-0215 | 3.584MB
-  - 🇩🇪DE-185.137.157.156-0209 | 3.521MB
-  - 🇩🇪DE-185.137.157.138-0210 | 3.518MB
-  - 🇺🇸US-38.54.64.247-0203 | 3.51MB
-  - 🇩🇪DE-185.137.157.149-0213 | 3.182MB
-  - 🇰🇷KR-152.67.218.38-0216 | 3.115MB
-  - 🇨🇦CA-134.195.198.147-7847 | 3.01MB
-  - 🇩🇪DE-213.202.208.199-0218 | 3.009MB
+  - RELAY-104.19.230.21-6028 | 32.341MB
+  - 🇸🇬SG-54.255.251.6-0383 | 31.97MB
+  - RELAY-172.67.161.104-6026 | 31.582MB
+  - 🇬🇧GB-82.38.31.16-0192 | 31.53MB
+  - RELAY-104.16.142.237-0386 | 30.739MB
+  - 🇬🇧GB-82.38.31.17-0189 | 30.424MB
+  - 🇩🇪DE-209.46.102.22-0109 | 29.963MB
+  - 🇸🇬SG-13.250.16.181-0119 | 29.222MB
+  - ZA-102.37.156.224-0131 | 28.647MB
+  - ZA-102.133.165.160-0129 | 28.067MB
+  - MD-94.131.108.36-0120 | 28.009MB
+  - 🇺🇸US-216.105.168.18-0225 | 25.607MB
+  - 🇬🇧GB-94.156.250.148-0132 | 25.541MB
+  - 🇸🇬SG-13.212.252.228-0385 | 24.575MB
+  - 🇦🇺AU-104.156.233.234-0125 | 21.162MB
+  - 🇸🇬SG-18.143.166.214-0388 | 18.077MB
+  - 🇫🇷FR-38.60.168.129-0128 | 17.892MB
+  - 🇺🇸US-38.54.80.160-0130 | 16.744MB
+  - 🇩🇪DE-185.137.157.151-0204 | 14.319MB
+  - 🇨🇦CA-23.162.200.227-7772 | 12.555MB
+  - 🇩🇪DE-185.137.157.140-0145 | 12.351MB
+  - 🇩🇪DE-185.137.157.128-0208 | 11.908MB
+  - 🇩🇪DE-185.137.157.156-0144 | 11.839MB
+  - 🇨🇳TW-36.224.158.182-0135 | 9.566MB
+  - 🇩🇪DE-185.137.157.145-0185 | 9.309MB
+  - 🇩🇪DE-185.137.157.135-0209 | 8.948MB
+  - 🇩🇪DE-185.137.157.142-0143 | 8.48MB
+  - 🇩🇪DE-185.137.157.149-2191 | 8.132MB
+  - 🇺🇸US-38.54.64.247-0139 | 7.364MB
+  - 🇨🇳TW-61.231.0.83-0182 | 6.931MB
+  - 🇨🇦CA-134.195.198.147-7774 | 6.597MB
+  - 🇬🇧GB-82.38.31.35-0136 | 6.302MB
+  - 🇬🇧GB-82.38.31.199-0137 | 6.201MB
+  - RELAY-104.21.77.204-6018 | 5.923MB
+  - 🇬🇧GB-82.38.31.216-0140 | 5.694MB
+  - 🇬🇧GB-82.38.31.176-0126 | 5.443MB
+  - 🇬🇧GB-82.38.31.217-0155 | 5.135MB
+  - 🇬🇧GB-82.38.31.7-0159 | 4.598MB
+  - 🇬🇧GB-82.38.31.2-0157 | 4.172MB
+  - 🇬🇧GB-141.98.101.182-0160 | 3.645MB
+  - 🇬🇧GB-141.98.101.179-0163 | 3.56MB
+  - 🇬🇧GB-82.38.31.219-0141 | 3.547MB
+  - 🇬🇧GB-141.98.101.181-0162 | 2.998MB
+  - 🇬🇧GB-141.98.101.178-0161 | 2.91MB
+  - 🇯🇵JP-52.196.71.137-0051 | 2.76MB
+  - 🇮🇳IN-103.111.114.82-0169 | 2.47MB
+  - 🇮🇳IN-103.111.114.80-0167 | 2.389MB
+  - IE-3.249.67.252-0166 | 2.065MB
+  - 🇮🇳IN-103.111.114.71-0165 | 1.679MB
+  - 🇩🇪DE-213.202.208.199-0193 | 1.004MB
+  - 🇺🇸US-147.90.234.133-2216 | 0.871MB
 rules:
 - MATCH,Global ©️
